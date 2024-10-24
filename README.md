@@ -17,14 +17,6 @@ Além das tecnologias mencionadas acima, também tenho experiência com:
 - Python
 - SQL
 
-## Projetos
-
-### Projeto 1: [Nome do Projeto]
-Descrição do projeto. Destaque as tecnologias usadas e o propósito do projeto.
-
-### Projeto 2: [Nome do Projeto]
-Descrição do projeto. Destaque as tecnologias usadas e o propósito do projeto.
-
 ## Contato
 
 Você pode me encontrar em:
